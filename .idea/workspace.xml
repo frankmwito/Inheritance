@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ddf8322-4578-42bb-9e51-7392ef99fb03" name="Changes" comment="Animal Hierarchy">
+    <list default="true" id="6ddf8322-4578-42bb-9e51-7392ef99fb03" name="Changes" comment="Vehicle Hierarchy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal Hierarchy.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal Hierarchy.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vehicle Hierarchy.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle Hierarchy.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   "keyToString": {
     "Kotlin.Animal_HierarchyKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Vehicle_HierarchyKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -86,13 +87,30 @@
       <option name="project" value="LOCAL" />
       <updated>1723113589625</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Animal Hierarchy">
+      <option name="closed" value="true" />
+      <created>1723114345557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723114345557</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Vehicle Hierarchy">
+      <option name="closed" value="true" />
+      <created>1723114422637</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723114422637</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inheritance problems" />
     <MESSAGE value="shape Hierarchy" />
     <MESSAGE value="Animal Hierarchy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animal Hierarchy" />
+    <MESSAGE value="Vehicle Hierarchy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vehicle Hierarchy" />
   </component>
 </project>
