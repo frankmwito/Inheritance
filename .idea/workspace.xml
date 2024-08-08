@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ddf8322-4578-42bb-9e51-7392ef99fb03" name="Changes" comment="shape Hierarchy" />
+    <list default="true" id="6ddf8322-4578-42bb-9e51-7392ef99fb03" name="Changes" comment="Animal Hierarchy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal Hierarchy.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal Hierarchy.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Animal_HierarchyKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -67,12 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723113478972</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Animal Hierarchy">
+      <option name="closed" value="true" />
+      <created>1723113589625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723113589625</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inheritance problems" />
     <MESSAGE value="shape Hierarchy" />
-    <option name="LAST_COMMIT_MESSAGE" value="shape Hierarchy" />
+    <MESSAGE value="Animal Hierarchy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animal Hierarchy" />
   </component>
 </project>
