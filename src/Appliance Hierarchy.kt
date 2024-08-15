@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-// Appliance Hierarchy
+//Appliance Hierarchy
 
 open class Appliance(
     val brand: String,
