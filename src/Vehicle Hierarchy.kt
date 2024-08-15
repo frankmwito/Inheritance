@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-// Vehicle Hierarchy
+//Vehicle Hierarchy
 open class Vehicle(
     val make: String,
     val model: Double
